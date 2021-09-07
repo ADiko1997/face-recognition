@@ -9,5 +9,5 @@ Verification: Run test.py file with arguments -M verification -a path_to_anchor 
 Identification: Run test.py file with arguments -M identification -a path_to_anchor
 
 # Note
-
-To run the other files (verification.py and identification.py) is important to download the dataset and inser the splitting information files into the resources folder
+1. You need to download the weight of facenet_keras from google.
+2. To run the other files (verification.py and identification.py) is important to download the dataset and inser the splitting information files into the resources folder
